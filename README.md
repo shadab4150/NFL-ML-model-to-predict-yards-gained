@@ -12,7 +12,7 @@
 
 * For a quick look at dataset features click here. [**Link**](https://shadab4150.github.io/NFL-ML-model-to-predict-yards-gained/nfl_overview.html)
 
-* To see Full porject and Notebooks click here. [**Link**]()
+* To see Full porject and Notebooks click here. [**Link**](https://shadab4150.github.io/NFL-ML-model-to-predict-yards-gained/nfl_analysis_yards_gained_prediction.html)
 ### Top five fasted players
 ![kd](https://i.ibb.co/c6mLy2d/jjbj.png)
 
